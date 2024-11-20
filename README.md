@@ -1,5 +1,6 @@
 ### Hello, I am Ricky
 <hr/>
+
 I study Software Engineering at the University of Calgary.  I am interested in learning graphical programming and any technology that displays nice images on my screen. As of now, I am currently skilled in developing frontend applications. My hobbies are graphic design and listening to music and messing around in Linux.
 
 * At this time I am currently learning:
