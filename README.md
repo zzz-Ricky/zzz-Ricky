@@ -15,8 +15,7 @@ I study Software Engineering at the University of Calgary.  I am interested in l
 
 <hr/> 
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=zzz-ricky&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zzz-ricky&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzz-ricky&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
